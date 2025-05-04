@@ -8,7 +8,7 @@
 - Renato Mio (Germany)
 - Pratyoosh Sharma (India)
 - Mays Lea Ahmad (Syria)
-- Nasar Roca Ortega (Ecuador)
-- Mario Gualsaqui (Spain)
+- Nasar Roca Ortega (Spain)
+- Mario Gualsaqui (Ecuador)
 - Bartlomiej Fryc (Ireland)
 
